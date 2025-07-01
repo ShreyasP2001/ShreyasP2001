@@ -97,7 +97,7 @@ These projects represent enterprise-focused AI consulting, done across business 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/shreyas-p-gowda-60907714b)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyas-prakash-60907714b/)  
 - 📧 [03shreyasp@gmail.com](mailto:03shreyasp@gmail.com)  
 - 🧑‍💻 [GitHub](https://github.com/ShreyasP2001)  
 
